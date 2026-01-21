@@ -231,7 +231,7 @@ export default function MenuPage() {
           <Button onClick={() => setOrderSuccess(false)} className="h-14 rounded-full text-lg font-bold">
             Yes, Order More
           </Button>
-          <Button variant="outline" onClick={() => window.location.href = '/'} className="h-14 rounded-full text-lg border-white/30 text-white hover:bg-white/10">
+          <Button variant="outline" onClick={() => window.location.href = '/'} className="h-14 rounded-full text-lg border-white/30 text-black hover:bg-white/10">
             No, Thank You
           </Button>
         </div>
