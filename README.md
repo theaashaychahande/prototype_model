@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CAFE REPUBLIC - PROJECT FEATURES
 
-## Getting Started
+## Customer-Facing Features
 
-First, run the development server:
+1. **Homepage/Landing Page** - Hero slider with restaurant showcase and featured content
+2. **Menu Management** - Browse restaurant menu with item details and prices
+3. **Table Booking System** - Book tables with date, time, and party size selection
+4. **Gallery** - Browse restaurant photos and images
+5. **Reviews Section** - View and read customer reviews and ratings
+6. **Offers/Promotions** - Display current special offers and deals
+7. **About Page** - Restaurant information and story
+8. **Contact Page** - Contact information and messaging
+9. **Bottom Navigation** - Mobile-friendly navigation menu
+10. **Shopping Cart System** - Order management (Cart Context)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Admin Dashboard Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+11. **Admin Authentication** - Login/secure access system for admin panel
+12. **Admin Dashboard** - Main control center for restaurant management
+13. **Bookings Management** - View, manage, and organize table reservations
+14. **Employees Management** - Staff management and administration
+15. **Orders Management** - Process and track customer orders
+16. **Menu Management** - Add, edit, delete menu items
+17. **Gallery Management** - Manage restaurant gallery images
+18. **Reports & Analytics** - View business reports and statistics
+19. **Login History** - Track admin login activities and security
+20. **Profile Settings** - Admin profile and account management
+21. **Settings** - General application and restaurant settings
+22. **Tables Management** - Configure table layouts and availability
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Backend & Database
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+23. **Supabase Integration** - Cloud database and authentication service
+24. **Database Schema** - Tables for bookings, menu items, orders, employees, etc.
+25. **RLS (Row Level Security)** - Secure data access policies
+26. **API Endpoints** - RESTful API for bookings and orders
 
-## Learn More
+## Technical Features
 
-To learn more about Next.js, take a look at the following resources:
+27. **Next.js Framework** - React-based server-side rendering
+28. **Responsive Design** - Mobile-friendly UI with responsive layout
+29. **UI Component Library** - Radix UI components (20+ pre-built components)
+30. **Form Handling** - React Hook Form integration
+31. **Animation & Motion** - Framer Motion for smooth animations
+32. **Icons Library** - Tabler Icons & Heroicons
+33. **TypeScript** - Type-safe code development
+34. **Tailwind CSS** - Utility-first styling framework
+35. **Error Handling** - Global error reporter component
+36. **Visual Editing** - Component tagger and visual edits messenger
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Support & Utilities
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+37. **Error Reporting** - Error tracking and reporting system
+38. **Mobile Detection** - Responsive design detection utility
+39. **Invoice Generation** - Create and manage invoices
+40. **Particle Effects** - TSParticles for interactive animations
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Total: 40+ Core Features**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is a complete **Restaurant Management & Booking System** with customer-facing and admin functionalities built on modern web technologies.
